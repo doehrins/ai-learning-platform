@@ -1,4 +1,4 @@
-# aInteractive AI Learning Platform (Thesis Project)
+# Interactive AI Learning Platform (Thesis Project)
 
 Status: In Progress (Expected completion June 2026)
 
